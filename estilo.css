@@ -1,0 +1,23 @@
+body{
+    font-family: comforter;
+    background-color: red;
+    font-size: 200%;
+    text-align: center;
+    text-shadow: 2px 2px 2px white;
+}
+div{
+    background-image: url(smaug.png);
+    background-size: 55px;
+    background-color: orange;
+    width:300px;
+    margin: auro;
+    text-shadow: 2px 2px black;
+    color: white;
+    box-shadow: 5px 5px 5px black;
+}
+#item1{
+    border: 5px groove blue;
+}
+#item2{
+  border: 5px dotted blue;
+}
